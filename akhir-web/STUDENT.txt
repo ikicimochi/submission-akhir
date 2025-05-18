@@ -1,0 +1,6 @@
+APP_URL=<url_aplikasi>
+MAP_SERVICE_API_KEY=<api_key>
+
+aplikasi ini tidak menggunakan layanan map dengan api api_key
+map ditampilkan menggunakan leaflet + openStreetMap biasa
+
